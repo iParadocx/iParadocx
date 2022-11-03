@@ -8,3 +8,5 @@
 iParadocx/iParadocx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![@iparadocx's Holopin board](https://holopin.me/iparadocx)](https://holopin.io/@iparadocx)
